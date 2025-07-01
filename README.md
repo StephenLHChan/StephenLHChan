@@ -57,7 +57,7 @@ A tool that helps users create professional resume
 ## 📫 Get in Touch
 
 - LinkedIn: [stephenlhc](https://linkedin.com/in/stephenlhc)
-- Webpage: [stephnc.info](https://stephenc.info)
+- Webpage: [stephenc.dev](https://stephenc.dev)
 
 ---
 
